@@ -1,4 +1,9 @@
 # CustomDirectList
+
+# katsurantr
 DOMAIN-SUFFIX,katsurantr.xyz
 IP-CIDR,80.251.209.190/32,no-resolve
 IP-CIDR,199.19.111.109/32,no-resolve
+
+# fgo
+DOMAIN-SUFFIX,fate-go.jp
