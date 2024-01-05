@@ -1,4 +1,10 @@
 # CustomProxyList
 
+# manga
+DOMAIN-SUFFIX,manhuashe.com
+
+# fgo
+DOMAIN-SUFFIX,fate-go.jp
+
 # gif
 DOMAIN-SUFFIX,tenor.com
