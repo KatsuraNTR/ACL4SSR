@@ -5,12 +5,10 @@ DOMAIN-SUFFIX,katsurantr.xyz
 IP-CIDR,80.251.209.190/32,no-resolve
 IP-CIDR,199.19.111.109/32,no-resolve
 
-# zidoo
-IP-CIDR,172.168.10.1/32,no-resolve
-
 # gotv
 IP-CIDR,33.93.27.128/32,no-resolve
 IP-CIDR,33.101.27.128/32,no-resolve
+IP-CIDR,37.253.27.128/32,no-resolve
 IP-CIDR,38.197.27.128/32,no-resolve
 IP-CIDR,38.205.27.128/32,no-resolve
 IP-CIDR,64.62.198.66/32,no-resolve
