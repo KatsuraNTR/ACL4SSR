@@ -6,6 +6,8 @@ IP-CIDR,80.251.209.190/32,no-resolve
 IP-CIDR,199.19.111.109/32,no-resolve
 
 # gotv
+IP-CIDR,32.141.27.128/32,no-resolve
+IP-CIDR,32.149.27.128/32,no-resolve
 IP-CIDR,33.93.27.128/32,no-resolve
 IP-CIDR,33.101.27.128/32,no-resolve
 IP-CIDR,37.253.27.128/32,no-resolve
