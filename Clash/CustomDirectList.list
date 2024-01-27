@@ -29,3 +29,6 @@ IP-CIDR,93.179.126.94/32,no-resolve
 IP-CIDR,107.69.27.128/32,no-resolve
 IP-CIDR,107.77.27.128/32,no-resolve
 IP-CIDR,107.85.27.128/32,no-resolve
+
+# nvidia
+DOMAIN,events.gfe.nvidia.com
